@@ -1,0 +1,395 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Belanosima', sans-serif;
+
+
+}
+
+
+
+.container-ti{
+
+
+    width: 100%;
+
+    height: 80px;
+
+    text-align: center;
+
+    background-color: #5D6D7E; 
+
+
+}
+
+.titulo{
+
+  padding-top: 20px;
+
+  font-size: 30px;
+
+
+}
+
+
+.container-in{
+
+    width: 100%;
+
+    height: 80px;
+
+    margin-top: 30px;
+
+    text-align: center;
+
+
+}
+
+.container_registro{
+
+   margin-left: 10em;
+
+   height: 25em;
+
+   display: flex;
+
+   flex-direction: row;
+
+   text-align: center;
+
+   width: 60em;
+
+   border: 10px ridge #5D6D7E;
+
+
+
+}
+
+
+
+
+
+.regitrosDatos{
+
+
+    height: 90%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    border: 5px solid #000;
+
+    width: 33.3%;
+
+    margin-top: 15px;
+
+
+
+
+
+}
+
+.registroEstado{
+
+    height: 90%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    width: 33.3%;
+
+    border: 5px solid #000;;
+
+    margin-top: 15px;
+    
+
+
+}
+
+
+.OtrosDatos{
+
+
+
+    height: 90%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    width: 33.3%;
+
+    border: 5px solid #000;;
+
+    margin-top: 15px;
+
+}
+
+.idNombre{
+
+position: relative;
+
+font-size: 25px;
+
+top: 50px;
+
+
+
+}
+
+
+.txtNombre{
+
+    position: relative;
+
+    font-size: 20px;
+    
+    top: 50px;
+    
+
+
+}
+
+.txtApellido{
+
+
+    position: relative;
+
+    font-size: 20px;
+    
+    top: 100px;
+    
+
+}
+
+
+.txtEdad{
+
+
+    position: relative;
+
+    font-size: 20px;
+    
+    top: 140px;
+    
+
+}
+
+.idApellido{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 80px;
+    
+    
+    
+    }
+
+
+
+.idEdad{
+
+        position: relative;
+        
+        font-size: 25px;
+        
+        top: 120px;
+        
+        
+        
+}
+
+.idCivil{
+
+
+    position: relative;
+
+font-size: 25px;
+
+top: 50px;
+
+
+
+
+}      
+
+
+.idSoltero{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 80px;
+    
+    
+}
+
+
+.idCasado{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 120px;
+    
+    
+    
+}
+
+
+.idViudo{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 170px;
+    
+    
+    
+}
+
+
+.estadoSoltero{
+
+    position: relative;
+    
+    top: 78px;
+    
+    
+
+
+
+}
+
+
+.estadoCasado{
+
+    position: relative;
+    
+    top: 119px;
+    
+    
+
+}
+
+
+.estadoViudo{
+
+    position: relative;
+    
+    top: 170px;
+    
+    
+
+}
+
+.idSexo{
+
+
+    position: relative;
+
+font-size: 25px;
+
+top: 50px;
+
+
+
+
+}    
+
+
+
+.idMasculino{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 80px;
+    
+    
+}
+
+.idFemenino{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 120px;
+    
+    
+    
+}
+
+.idSueldo{
+
+    position: relative;
+    
+    font-size: 25px;
+    
+    top: 130px;
+    
+    
+    
+}
+
+.radioMasculino{
+
+    position: relative;
+    
+    top: 81px;
+    
+    
+
+
+
+}
+
+.radioFemenino{
+
+    position: relative;
+    
+    top: 120px;
+    
+    
+
+}
+
+.txtSueldo{
+
+
+    position: relative;
+
+    font-size: 20px;
+    
+    top: 140px;
+    
+
+
+}
+
+
+.btnAñadir{
+
+position: relative;
+
+height: 50px;
+
+top: 50px;
+
+width: 180px;
+
+font-size: 20px;
+
+left: 28em;
+
+}
